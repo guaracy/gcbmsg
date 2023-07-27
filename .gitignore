@@ -1,0 +1,5 @@
+# backup and units
+backup/
+lib/
+
+*.lps
