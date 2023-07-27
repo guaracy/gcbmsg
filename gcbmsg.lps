@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Windows64"/>
+    <Units>
+      <Unit>
+        <Filename Value="gcbmsg.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="30"/>
+        <CursorPos X="10" Y="43"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\fpcupdeluxe\fpcupdeluxe\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1104"/>
+        <CursorPos X="11" Y="1518"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\fpcupdeluxe\fpcupdeluxe\fpcsrc\rtl\win\syswinh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="42"/>
+        <CursorPos X="29" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Lazarus-3.2.6\fpcupdeluxe\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="564"/>
+        <CursorPos X="22" Y="584"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\Lazarus-3.2.6\fpcupdeluxe\fpcsrc\rtl\unix\sysunixh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="36" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="gcbmsg.lpr"/>
+      </Position>
+      <Position>
+        <Filename Value="gcbmsg.lpr"/>
+        <Caret Line="57" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="gcbmsg.lpr"/>
+        <Caret Line="56" Column="17" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="gcbmsg.lpr"/>
+        <Caret Line="56" Column="63" TopLine="45"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="&quot;Teste para melhores comentários&apos;"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\WINDOWS\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="4">
+        <Item1 Value="&quot;Teste para melhores comentários&apos;"/>
+        <Item2 Value="&apos;Este teste &quot;esta ficando&quot; legal&apos;"/>
+        <Item3 Value="Este teste &quot;esta ficando&quot; legal"/>
+        <Item4 Value="Este teste &quot;esta&quot; legal"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
