@@ -57,9 +57,10 @@ begin
       halt(99);
     end;
     if cmd<>'' then
-      cmd+=' : '+ParamStr(2);
+      cmd+=' : '+ParamStr(2)
+    else
+      cmd:=ParamStr(2);
   end;
-  writeln(cmd);
   cDir:=IncludeTrailingPathDelimiter(GetCurrentDir);
   if not RunCommandInDir(cDir,'git',['commit','-m',cmd],sOut,[poWaitOnExit,poStderrToOutPut,poNoConsole]) then
     TextColor(LightRed);

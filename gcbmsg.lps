@@ -3,15 +3,15 @@
   <ProjectSession>
     <PathDelim Value="\"/>
     <Version Value="12"/>
-    <BuildModes Active="Windows64"/>
+    <BuildModes Active="Linux64"/>
     <Units>
       <Unit>
         <Filename Value="gcbmsg.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="30"/>
-        <CursorPos X="10" Y="43"/>
-        <UsageCount Value="27"/>
+        <TopLine Value="43"/>
+        <CursorPos Y="64"/>
+        <UsageCount Value="28"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
